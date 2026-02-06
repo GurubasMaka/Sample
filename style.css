@@ -5,7 +5,14 @@ body {
 }
 
 h1 {
+<<<<<<< HEAD
   color: blue;
+=======
+    color: green;
+>>>>>>> master
+h1 {
+    color: darkred;
+}
 }
 input {
   padding: 8px;
